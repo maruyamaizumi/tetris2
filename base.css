@@ -1,0 +1,17 @@
+body {
+  background: #ffe4e1;
+}
+
+.header .el_title {
+  text-align: center;
+  font-size: 25px;
+  font-family: "Nikukyu";
+  color: #696969;
+}
+
+#container {
+  margin: 0 auto;
+}
+#container #cvs {
+  border-radius: 15px;
+}/*# sourceMappingURL=base.css.map */
